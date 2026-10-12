@@ -5,7 +5,7 @@ const blogPosts = [
     date:'10 oktober 2026',
     title:'Tentoonstelling',
     image:'images/blog/EXPodium.jpeg',
-    text:'Laatste weekend op "Hof Ter Saksen". 80 kunstenaars en ik stellen hier hun creativiteit ten toon.'
+    text:'Laatste weekend op "Hof Ter Saksen". 81 kunstenaars en ik stellen hier hun creativiteit ten toon.'
   },
   {
     date:'10 oktober 2026',
