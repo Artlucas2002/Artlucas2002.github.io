@@ -1,8 +1,8 @@
-const $=s=>document.querySelector(s); const dlg=$('#lightbox'), big=dlg.querySelector('img'), cap=dlg.querySelector('figcaption'); let current=[],idx=0;
+const $=s=>document.querySelector(s); const dlg=$('#lightbox'), big=dlg.querySelector('img'), cap=dlg.querySelector('figcaption'), story=dlg.querySelector('.artStory'), storyText=dlg.querySelector('.artStoryText'); let current=[],idx=0;
 function card(a,isPainting=false){const el=document.createElement('article');el.className='card';el.innerHTML=`<img loading="lazy" src="${a.src}" alt="${isPainting?a.title:'Schets van Lucas Maes'}">${isPainting?`<div class="meta"><strong>${a.title}</strong><small>${a.medium} · ${a.size}</small></div>`:''}`;el.onclick=()=>open(current.indexOf(a));return el}
 function render(){current=paintings;paintings.forEach(a=>$('#paintings').append(card(a,true))); sketches.forEach(a=>$('#sketches').append(cardSketch(a)))}
 function cardSketch(a){const el=card(a,false);el.onclick=()=>{current=sketches;open(sketches.indexOf(a))};return el}
-function open(i){idx=i;const a=current[idx];big.src=a.src;cap.textContent=a.medium?`${a.title} — ${a.medium} — ${a.size}`:'';dlg.showModal()}
+function open(i){idx=i;const a=current[idx];big.src=a.src;cap.textContent=a.medium?`${a.title} — ${a.medium} — ${a.size}`:'';if(a.description){story.hidden=false;storyText.innerHTML=a.description}else{story.hidden=true;storyText.innerHTML=''};dlg.showModal()}
 function move(d){idx=(idx+d+current.length)%current.length;open(idx)}
 dlg.querySelector('.close').onclick=()=>dlg.close();dlg.querySelector('.prev').onclick=()=>move(-1);dlg.querySelector('.next').onclick=()=>move(1);dlg.onclick=e=>{if(e.target===dlg)dlg.close()};document.onkeydown=e=>{if(!dlg.open)return;if(e.key==='ArrowLeft')move(-1);if(e.key==='ArrowRight')move(1)};$('.menu').onclick=()=>$('.top nav').classList.toggle('open');document.querySelectorAll('nav a').forEach(a=>a.onclick=e=>{
   $('.top nav').classList.remove('open');
