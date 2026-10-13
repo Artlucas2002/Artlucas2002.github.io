@@ -1,8 +1,20 @@
 // Voeg later nieuwe werken toe door een foto in de juiste map te zetten en hieronder één regel toe te voegen.
 const paintings = [
- {src:'images/paintings/painting-1.jpeg',title:'Solitude',medium:'Olieverf op doek',size:'40 × 50 cm'},
+ {src:'images/paintings/painting-1.jpeg',title:'Lege Stoel',medium:'Olieverf op doek',size:'40 × 50 cm',description:`Twee stoelen kijken naar de zee. Slechts één is bezet.
+En precies hierdoor krijgt de andere betekenis.
+Wie zat daar? Wie wordt verwacht? Of is de lege stoel eenvoudig de ruimte die we soms naast ons nodig hebben?
+Een figuur kijkt weg van ons, naar een horizon die voortdurend verandert. Rond haar liggen zand, water en lucht in bijna eindeloze stilte. Alleen de stoelen en hun schaduwen, donkere vormen die verankerd lijken in het zand, en die zeggen willen: wij zijn hier, op dit ogenblik. Met daartegenover de zee, een constante van beweging, het vaste en het voorbijgaande ontmoeten elkaar.
+Dit schilderij gaat niet alleen over iemand die naar de zee kijkt. Het gaat over aanwezigheid en afwezigheid, over wachten, herinneren en verlangen.
+De lege stoel vertelt hier niets,en daardoor alles..
+`},
  {src:'images/paintings/painting-2.jpeg',title:'Regret',medium:'Olieverf op paneel',size:'45 × 45 cm'},
- {src:'images/paintings/painting-3.jpeg',title:'Lost Joy',medium:'Olieverf op doek',size:'60 × 80 cm'},
+ {src:'images/paintings/painting-3.jpeg',title:'Toen ik nog kon vliegen',medium:'Olieverf op doek',size:'60 × 80 cm',description:`Een oude vrouw in de schaduw, een kind dat baadt in het licht.
+Tussen hen liggen slechts enkele passen,  en misschien een heel mensenleven.
+De ene houdt zich vast. De andere spreidt haar armen alsof de wereld nog geen grenzen kent.
+Kijkt de vrouw naar het kind? Naar haar verleden? Of naar iets wat ieder van ons onderweg verliest en toch blijft meedragen?
+Voor mij gaat het over dat vreemde menselijke vermogen om in een jong lichaam plots de tijd zichtbaar te zien worden.
+Met dit schilderij laat ik twee momenten naast elkaar bestaan:  wie we ooit waren en wie we geworden zijn.
+Want misschien verdwijnt het kind in ons nooit, maar staat het alleen steeds iets verder van ons vandaan.`},
  {src:'images/paintings/painting-4.jpeg',title:'Blind Stillness',medium:'Olieverf op doek',size:'70 × 100 cm'},
  {src:'images/paintings/painting-5.jpeg',title:'Streetlife',medium:'Olieverf op doek',size:'50 × 60 cm'},
  {src:'images/paintings/painting-6.jpeg',title:'Together',medium:'Olieverf op doek',size:'70 × 100 cm'},
@@ -25,12 +37,12 @@ Het werk legt geen vast verhaal of emotie op. Eenzaamheid, rust, verdriet en geb
 De rolstoel spreekt over kwetsbaarheid en afhankelijkheid, maar het schilderij gaat niet over hulpeloosheid. Het gaat over zorg als lichamelijk gebaar: dragen, ondersteunen, nabij blijven. Ook degene die helpt, buigt en zoekt houvast. Beiden behoren tot dezelfde kwetsbare menselijke wereld.
 De omgeving verdwijnt naar de achtergrond. Wat overblijft, is een eenvoudig en universeel moment:
 zolang ik je nog kan vasthouden, laat ik je niet vallen.`},
- {src:'images/paintings/painting-12.jpeg',title:'One way',medium:'Olieverf op doek',size:'40 × 50 cm',description:`Een man loopt voorbij. Meer lijkt er niet te gebeuren — en toch ontstaat precies daar het schilderij.
+ {src:'images/paintings/painting-12.jpeg',title:'One way',medium:'Olieverf op doek',size:'40 × 50 cm',description:`Een man loopt voorbij. Meer lijkt er niet te gebeuren, en toch ontstaat precies daar het schilderij.
 Boven hem wijst ONE WAY naar rechts, terwijl hij naar links beweegt. Achter hem groeit zijn schaduw uit tot een tweede aanwezigheid, alsof de muur iets bewaart van wat voorbijgaat.
 De zachte, bijna verstilde kleuren maken van een alledaags moment iets tijdloos. De man nadert de donkere rand van het beeld, met onder zijn arm een helder vlak dat bijna licht lijkt te dragen.
 Dit werk gaat niet zozeer over waar iemand naartoe gaat, maar over voorbijgaan zelf: over tijd, richting en de mens die zijn eigen weg volgt.
 Eén richting. Geen terugkeer. We houden met dit beeld dat moment even vast.`},
- {src:'images/paintings/painting-13.jpeg',title:'Ergens tussenin',medium:'Olieverf op paneel',size:'40 × 50 cm',description:`In dit beeld vertelt ik een verhaal over verlangen, afzondering en het onderweg zijn. Een jong meisje in een bus die naar buiten kijkt. Haar houding straalt rust uit, maar tegelijk is ze verzonken in haar eigen gedachten. 
+ {src:'images/paintings/painting-13.jpeg',title:'Ergens tussenin',medium:'Olieverf op paneel',size:'40 × 50 cm',description:`In dit beeld vertel ik een verhaal over verlangen, afzondering en het onderweg zijn. Een jong meisje in een bus die naar buiten kijkt. Haar houding straalt rust uit, maar tegelijk is ze verzonken in haar eigen gedachten. 
 De scherpere figuur tegenover de vervagende buitenwereld versterkt het gevoel dat we even deelgenoot worden van haar innerlijke wereld.
 Voor mij ging het vooral over die herkenbare momenten waarop je onderweg bent en je gedachten beginnen af te dwalen: je lichaam reist vooruit, terwijl je gedachten misschien ergens anders zijn, over de stilte die kan ontstaan midden in beweging. Openbaar vervoer is normaal een plaats van overgang: mensen komen ergens vandaan en zijn onderweg naar iets anders. Juist daar ontstaat een tijdelijk niemandsland waarin iemand kan observeren, dromen, wachten of in gedachten verdwijnen.`},
  {src:'images/paintings/painting-14.jpeg',title:'Gift',medium:'Olieverf op doek',size:'50 × 50 cm'},
