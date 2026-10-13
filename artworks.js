@@ -14,7 +14,7 @@ Terwijl de lijnen van het station naar de verte en het onbekende leiden, blijft 
 Dit schilderij gaat uiteindelijk niet over reizen, maar over <strong>wachten</strong>. Over dat kwetsbare ogenblik tussen blijven en vertrekken, wanneer het verleden nog tastbaar is en de toekomst slechts uit lichtvlekken bestaat.
 
 <strong>De trein die we niet zien, is minder belangrijk dan het vertrek dat zich in deze man nog niet heeft voltrokken.</strong>`},
- {src:'images/paintings/painting-9.jpeg',title:'Comfortlight',medium:'Olieverf op doek',size:'40 × 60 cm'},
+ {src:'images/paintings/painting-9.jpeg',title:'Licht uit een andere wereld',medium:'Olieverf op doek',size:'40 × 60 cm'},
  {src:'images/paintings/painting-10.jpeg',title:'Seen',medium:'Olieverf op paneel',size:'70 × 100 cm'},
  {src:'images/paintings/painting-11.jpeg',title:'Comfort',medium:'Olieverf op doek',size:'50 × 70 cm'},
  {src:'images/paintings/painting-12.jpeg',title:'One way',medium:'Olieverf op doek',size:'40 × 50 cm'},
