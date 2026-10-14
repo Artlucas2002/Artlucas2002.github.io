@@ -7,7 +7,7 @@ Een figuur kijkt weg van ons, naar een horizon die voortdurend verandert. Rond h
 Dit schilderij gaat niet alleen over iemand die naar de zee kijkt. Het gaat over aanwezigheid en afwezigheid, over wachten, herinneren en verlangen.
 De lege stoel vertelt hier niets, en daardoor alles..
 `},
- {src:'images/paintings/painting-2.jpeg',title:'Tussen binnen en buiten',medium:'Olieverf op paneel',size:'45 × 45 cm',description:`Een hand verbergt het gezicht en maakt zichtbaar wat woorden soms niet kunnen zeggen. De figuur trekt zich terug uit onze blik, terwijl het landschap rondom hem vervaagt tot een bijna innerlijke ruimte.
+ {src:'images/paintings/painting-2.jpeg',title:'Tussen binnen en buiten',medium:'Olieverf op paneel',size:'45 × 45 cm',description:`Een hand verbergt een gezicht en maakt zichtbaar wat woorden soms niet kunnen zeggen. De figuur trekt zich terug uit onze blik, terwijl het landschap rondom hem vervaagt tot een bijna innerlijke ruimte.
 Is dit verdriet, vermoeidheid, afzondering of eenvoudigweg een moment van stilte?
 Het schilderij geeft geen antwoord. Het laat ruimte voor herkenning door de toeschouwer.
 Soms vertelt juist wat verborgen blijft het meest.
