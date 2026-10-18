@@ -75,15 +75,15 @@ Dat dit gebaar van een kind komt, maakt het nog betekenisvoller. Een kind kan ie
 Ook de bloemen zelf passen daar mooi bij. Ze zijn kwetsbaar en vergankelijk. Ze zullen verwelken. Het geschenk blijft dus niet bestaan, maar het gebaar misschien wel. Soms zijn het juist de kleinste daden van goedheid die iemand veel langer bijblijven dan degene die ze stelde ooit zal beseffen.
 In onze wereld waarin zoveel wordt afgewogen.. wat iets kost, wat iets oplevert, wat iemand voor ons kan betekenen.. staat dit eenvoudige gebaar daar bijna tegenover.
 En misschien is dát wat het kind ons aanreikt. Niet alleen een paar bloemen, maar een herinnering aan een heel eenvoudige vorm van menselijkheid: geven zonder te rekenen.`},
- {src:'images/paintings/painting-15.jpeg',title:'Dreamer',medium:'Olieverf op paneel',size:'40 × 50 cm'},
- {src:'images/paintings/painting-16.jpeg',title:'Toekan',medium:'Olieverf op doek',size:'40 × 40 cm'},
+ {src:'images/paintings/painting-15.jpeg',title:'Dreamer',medium:'Olieverf op paneel',size:'40 × 50 cm',description:`Dit werk werd geschilderd als persoonlijk geschenk en bevindt zich in privébezit.`},
+ {src:'images/paintings/painting-16.jpeg',title:'Toekan',medium:'Olieverf op doek',size:'40 × 40 cm',description:`Dit werk werd geschilderd als persoonlijk geschenk en bevindt zich in privébezit.`},
  {src:'images/paintings/painting-17.jpeg',title:'Verstoppertje',medium:'Olieverf op doek',size:'70 × 90 cm',description:`Dit schilderij vindt zijn oorsprong in een eenvoudig kinderspel: verstoppertje. Een kind bedekt de ogen en even lijkt de wereld te verdwijnen. Wat je niet ziet, bestaat voor een ogenblik niet.
 Maar datzelfde gebaar kan ook iets anders betekenen. Het wordt een poging om zich af te sluiten voor een werkelijkheid die soms te hard, te gewelddadig of te ingewikkeld is. Oorlog, verdriet, onrecht, angst en alle andere donkere kanten van de wereld dringen ook het leven van kinderen binnen, terwijl een kind daar eigenlijk nog voor beschermd zou moeten worden.
 De handen voor de ogen vormen daardoor bijna een schild tussen de onschuld van het kind en de werkelijkheid daarbuiten. Tegelijkertijd is dat schild kwetsbaar. De handen kunnen de ogen bedekken, maar de wereld blijft bestaan. Je kunt haar niet werkelijk laten verdwijnen door niet te kijken.
 De zachte, bijna dromerige kleuren versterken voor mij dat gevoel. Het kind lijkt zich in een eigen, veilige wereld terug te trekken. 
 Zo ontstaat er een tegenstelling tussen kinderlijke onschuld en een harde werkelijkheid. Wat begint als een spelletje krijgt daardoor iets aangrijpends: soms sluiten we onze ogen niet omdat we niet nieuwsgierig zijn, maar omdat wat er te zien is te veel is.
 En misschien gaat het schilderij daardoor niet alleen over een kind. Ook als volwassenen hebben we soms de neiging onze ogen te sluiten voor wat pijnlijk, bedreigend of onrechtvaardig is. Verstoppertje spelen wordt dan een metafoor voor onze menselijke behoefte om ons af en toe voor de werkelijkheid te verbergen.`},
- {src:'images/paintings/painting-18.jpeg',title:'Stars',medium:'Olieverf op doek',size:'50 × 50 cm'},
- {src:'images/paintings/painting-19.jpeg',title:'Harley',medium:'Olieverf op doek 5 luik',size:'200 × 120 cm'}
+ {src:'images/paintings/painting-18.jpeg',title:'Stars',medium:'Olieverf op doek',size:'50 × 50 cm',description:`Dit werk werd geschilderd als persoonlijk geschenk en bevindt zich in privébezit.`},
+ {src:'images/paintings/painting-19.jpeg',title:'Harley',medium:'Olieverf op doek 5 luik',size:'200 × 120 cm',description:`Dit werk werd geschilderd als persoonlijk geschenk en bevindt zich in privébezit.`}
 ];
 const sketches = Array.from({length:27},(_,i)=>({src:`images/sketches/sketch-${i+1}.jpeg`,title:`Schets ${i+1}`}));
