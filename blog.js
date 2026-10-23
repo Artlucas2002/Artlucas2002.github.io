@@ -2,7 +2,13 @@
 // image mag leeg zijn: image:''
 const blogPosts = [
   {
-    date:'10 oktober 2026',
+    date:'23 oktober 2026',
+    title:'Atelier',
+    image:'',
+    text:'Het schildersatelier is bijna af, afbeeldingen volgen nog..'
+  },
+  {
+date:'10 oktober 2026',
     title:'Tentoonstelling',
     image:'images/blog/EXPodium.jpeg',
     text:'Laatste weekend op "Hof Ter Saksen". 81 kunstenaars en ik stellen hier hun creativiteit ten toon.'
